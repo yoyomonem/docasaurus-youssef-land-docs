@@ -29,8 +29,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/yoyomonem/docasaurus-youssef-land-docs/',
         },
@@ -59,7 +57,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/yoyomonem/docasaurus-youssef-land-docs',
+            href: 'https://github.com/yoyomonem/docasaurus-youssef-land-docs/edit/main/',
             label: 'GitHub',
             position: 'right',
           },
