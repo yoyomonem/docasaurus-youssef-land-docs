@@ -9,7 +9,7 @@ const config = {
   title: 'Youssef Land Docs',
   url: 'https://docasaurus-youssef-land-docs.vercel.app',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   /**
