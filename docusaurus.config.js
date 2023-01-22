@@ -6,8 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Youssef Land Docs',
   url: 'https://docasaurus-youssef-land-docs.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -85,10 +84,14 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/YoussefLand',
               },
+              {
+                label: "Facebook",
+                href: "https://www.facebook.com/profile.php?id=100076459625854"
+              }
             ],
           },
           {
-            title: 'More',
+            title: 'Source code',
             items: [
               {
                 label: 'GitHub',
